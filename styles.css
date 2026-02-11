@@ -1,13 +1,8 @@
-body {
-            margin: 20;
-            padding: 50px;
-            font-family: sans-serif;
-	
 
-        }
         .box {
             width: 300px;
             background-color: lightblue;
             border: 15px solid blue;
             padding: 50px;
             margin: 20px;
+		}
